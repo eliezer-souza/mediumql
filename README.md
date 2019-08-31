@@ -1,19 +1,26 @@
-# MediumGraphqlApi
+<h1 align="center">
+<br>
+  <a href="https://github.com/eliezer-souza/mediumql"><img src="https://vignette.wikia.nocookie.net/ageofmagicgame/images/4/48/Experience_Potion.png/revision/latest?cb=20170915103844" alt="task"></a>
+<br />
+<br />
+mediumql
+</h1>
 
-To start your Phoenix server:
+## 📖 Overview
+A Medium API clone using Elixir + Phoenix + Absinthe
 
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.setup`
-  * Start Phoenix endpoint with `mix phx.server`
+To start the application
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+```
+  Install dependencies with `mix deps.get`
+  Create and migrate your database with `mix ecto.setup`
+  Start Phoenix endpoint with `mix phx.server`
+```
 
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
+Now you can visit [`localhost:4000/api/graphiql`](http://localhost:4000/api/graphiql) from your browser.
 
 ## Learn more
-
-  * Official website: http://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Mailing list: http://groups.google.com/group/phoenix-talk
-  * Source: https://github.com/phoenixframework/phoenix
+  * Elixir: https://elixir-lang.org/
+  * Phoenix Framework: http://www.phoenixframework.org/
+  * Absinthe: http://absinthe-graphql.org/
+  * Ecto: https://github.com/elixir-ecto/ecto
